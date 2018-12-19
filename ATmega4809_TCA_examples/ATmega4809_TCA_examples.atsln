@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Using_Periodic_Interrupt_Modes", "Using_periodic_interrupt_mode\Using_Periodic_Interrupt_Modes.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Generating_a_Dual-Slope_PWM_Signal", "Generating_a_dual-slope_PWM_signal\Generating_a_Dual-Slope_PWM_Signal.cproj", "{A7E95814-940B-43A9-A0FD-602041677CEC}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Generating_Two_PWM_Signals_in_Split_Mode", "Generating_two_PWM_signals_in_split_mode\Generating_Two_PWM_Signals_in_Split_Mode.cproj", "{3F6AE7A9-7883-4C8F-965F-F326BD00AAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
+		{A7E95814-940B-43A9-A0FD-602041677CEC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{A7E95814-940B-43A9-A0FD-602041677CEC}.Debug|AVR.Build.0 = Debug|AVR
+		{A7E95814-940B-43A9-A0FD-602041677CEC}.Release|AVR.ActiveCfg = Release|AVR
+		{A7E95814-940B-43A9-A0FD-602041677CEC}.Release|AVR.Build.0 = Release|AVR
+		{3F6AE7A9-7883-4C8F-965F-F326BD00AAC0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3F6AE7A9-7883-4C8F-965F-F326BD00AAC0}.Debug|AVR.Build.0 = Debug|AVR
+		{3F6AE7A9-7883-4C8F-965F-F326BD00AAC0}.Release|AVR.ActiveCfg = Release|AVR
+		{3F6AE7A9-7883-4C8F-965F-F326BD00AAC0}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
