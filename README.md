@@ -1,4 +1,4 @@
-ATmega4809_TCA_Examples_TB3217
+(TB3217) ATmega4809 TCA Examples
 ===
 
 This repository contains examples of bare metal source code for TCA as described in TB3217 document from Microchip.
